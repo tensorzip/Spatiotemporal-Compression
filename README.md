@@ -1,3 +1,1 @@
-usage:
-compress: ./compressor -c f
-decompress: ./compressor -d f
+The repository contains the project files for the Spatiotemporal compression algorithm and benchmark projects for comparison.
