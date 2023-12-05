@@ -12,3 +12,4 @@ nz_array_2 (double array)
 nz_array_n (double array)
 
 (Advanced version: employ time prediction model ,last value prediction model and stamping-based prediction model)
+Developed on the basis of Xyce.
