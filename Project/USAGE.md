@@ -1,4 +1,4 @@
-Operating system：linux
+Operating system：linux X86
 
 (BASIC: only employ time prediction model and last value prediction model )
 Compress command:  ./compressor -c file.bin
