@@ -1,0 +1,1 @@
+The SPICE simulation process of this project is based on Xyce. Thanks to Xyce for its outstanding open source work！
